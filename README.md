@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/caldonovan/caldonovan/master/img/header.svg">
-
 ### Hi there 👋
 
 I love experiencing and exploring the latest tech trends, building useful applications and making people's lives easier.
@@ -21,5 +19,3 @@ Oh and here's some stats, just for fun!
 
 [![Cal Donovan's github
 stats](https://github-readme-stats.vercel.app/api?username=caldonovan&show_icons=true&hide=["contribs","prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
-
-🎨 Header image created with the excellent [Trianglify](https://github.com/qrohlf/trianglify) library!
