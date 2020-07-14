@@ -1,3 +1,5 @@
+<img src="img/header.min.svg">
+
 ### Hi there 👋
 
 I love experiencing and exploring the latest tech trends, building useful applications and making people's lives easier.
