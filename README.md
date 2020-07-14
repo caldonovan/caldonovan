@@ -12,4 +12,4 @@ Some things that are keeping me entertained:
 
 <hr>
 
-I don't really do social media, but I am always open for interactions on :octocat: [GitHub](https://github.com/caldonovan), 📨 [Email](caldonovan@outlook.com) or 💼 [Linkedin](https://www.linkedin.com/in/callum-donovan-334444122/)
+I don't really do social media, but I am always open for interactions on :octocat: [GitHub](https://github.com/caldonovan), 📨 [Email](mailto:caldonovan@outlook.com) or 💼 [Linkedin](https://www.linkedin.com/in/callum-donovan-334444122/)
