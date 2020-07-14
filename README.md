@@ -13,3 +13,7 @@ Some things that are keeping me entertained:
 <hr>
 
 I don't really do social media, but I am always open for interactions on :octocat: [GitHub](https://github.com/caldonovan), 📨 [Email](mailto:caldonovan@outlook.com) or 💼 [Linkedin](https://www.linkedin.com/in/callum-donovan-334444122/)
+
+Oh and here's some stats, just for fun!
+
+[![Cal Donovan's github stats](https://github-readme-stats.vercel.app/api?username=caldonovan&show_icons=true&hide=["contribs","prs"])](https://github.com/anuraghazra/github-readme-stats)
