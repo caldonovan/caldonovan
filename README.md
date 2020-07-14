@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there 👋
 
 I love experiencing and exploring the latest tech trends, building useful applications and making people's lives easier.
 
