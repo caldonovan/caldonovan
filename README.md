@@ -1,4 +1,4 @@
-<img src="img/header.min.svg">
+<img src="img/header.svg">
 
 ### Hi there 👋
 
