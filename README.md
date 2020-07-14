@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**caldonovan/caldonovan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I love experiencing and exploring the latest tech trends, building useful applications and making people's lives easier.
 
-Here are some ideas to get you started:
+Some things that are keeping me entertained:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Currently studying an MSc in Advanced Software Technology.
+- 📝 Most of my time is dedicated to my dissertation.
+- ⚡ Currently working on an API using Lumen.
+- ⚗ Experimenting with .NET apps & JAMStack.
+- ⭐ My favourite technologies at the moment include **[Laravel]()** & **[VueJS]()**.
+
+<hr>
+
+I don't really do social media, but I am always open for interactions on :octocat: [GitHub](https://github.com/caldonovan), 📨 [Email](caldonovan@outlook.com) or 💼 [Linkedin](https://www.linkedin.com/in/callum-donovan-334444122/)
