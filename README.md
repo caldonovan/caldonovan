@@ -8,7 +8,7 @@ Some things that are keeping me entertained:
 - 📝 Most of my time is dedicated to my dissertation.
 - ⚡ Currently working on an API using [Lumen 7](https://lumen.laravel.com/).
 - 🚀 Also working on a full-stack app using [Laravel 7](https://laravel.com/) & [VueJS](https://vuejs.org/).
-- ⚗ Experimenting with .NET apps & [JAMStack](https://jamstack.org/).
+- ⚗ Experimenting with .NET apps, [JAMStack](https://jamstack.org/) and React.
 - ⭐ My favourite technologies at the moment include **[Laravel](https://laravel.com/)** & **[VueJS](https://vuejs.org/)**.
 
 <hr>
