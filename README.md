@@ -17,5 +17,4 @@ I don't really do social media, but I am always open for interactions on :octoca
 
 Oh and here's some stats, just for fun!
 
-[![Cal Donovan's github
-stats](https://github-readme-stats.vercel.app/api?username=caldonovan&theme=onedark&show_icons=true&hide=["contribs","prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
+[![Cal Donovan's stats](https://github-readme-stats.vercel.app/api?username=caldonovan&theme=onedark&show_icons=true&hide=["contribs","prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
