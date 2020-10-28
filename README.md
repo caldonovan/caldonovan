@@ -4,12 +4,11 @@ I love experiencing and exploring the latest tech trends, building useful applic
 
 Some things that are keeping me entertained:
 
-- 🎓 Currently studying an MSc in Advanced Software Technology.
-- 📝 Most of my time is dedicated to my dissertation.
-- ⚡ Currently learning C++ to compliment my dissertation.
-- 🚀 Also working on a full-stack app using [Laravel 7](https://laravel.com/) & [VueJS](https://vuejs.org/).
+- 🚀 Working on a full-stack app using [Laravel 8](https://laravel.com/), [InertiaJS](https://inertiajs.com/), & [VueJS](https://vuejs.org/).
 - ⚗ Experimenting with .NET apps, [JAMStack](https://jamstack.org/) and React.
 - ⭐ My favourite technologies at the moment include **[Laravel](https://laravel.com/)** & **[VueJS](https://vuejs.org/)**.
+- 👀 Web Assembly is pretty interesting.
+- 🙏 WSL is my saviour for web development using Windows.
 
 <hr>
 
@@ -17,4 +16,6 @@ I don't really do social media, but I am always open for interactions on :octoca
 
 Oh and here's some stats, just for fun!
 
-[![Cal Donovan's stats](https://github-readme-stats.vercel.app/api?username=caldonovan&theme=onedark&show_icons=true&hide=["contribs","prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
+[![Cal Donovan's stats](https://github-readme-stats.vercel.app/api?username=caldonovan&hide_rank=true&theme=onedark&show_icons=true&hide=["contribs","prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caldonovan&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
