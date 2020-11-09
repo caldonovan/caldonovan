@@ -14,6 +14,8 @@ Some things that are keeping me entertained:
 
 I don't really do social media, but I am always open for interactions on :octocat: [GitHub](https://github.com/caldonovan), 📨 [Email](mailto:caldonovan@outlook.com) or 💼 [Linkedin](https://www.linkedin.com/in/callum-donovan-334444122/)
 
+I'm also currently looking for work, feel free to view my [CV](https://github.com/caldonovan/Resume/blob/main/resume_gh.pdf).
+
 Oh and here's some stats, just for fun!
 
 [![Cal Donovan's stats](https://github-readme-stats.vercel.app/api?username=caldonovan&hide_rank=true&theme=onedark&show_icons=true&hide=["contribs","prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
