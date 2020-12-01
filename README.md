@@ -4,7 +4,7 @@ I love experiencing and exploring the latest tech trends, building useful applic
 
 Some things that are keeping me entertained:
 
-- 🚀 Working on a full-stack app using [Laravel 8](https://laravel.com/), [InertiaJS](https://inertiajs.com/), & [VueJS](https://vuejs.org/).
+- 🚀 Working on a full-stack apps using [Laravel 8](https://laravel.com/), [InertiaJS](https://inertiajs.com/), & [VueJS](https://vuejs.org/).
 - ⚗ Experimenting with .NET apps, [JAMStack](https://jamstack.org/) and React.
 - ⭐ My favourite technologies at the moment include **[Laravel](https://laravel.com/)** & **[VueJS](https://vuejs.org/)**.
 - 👀 Web Assembly is pretty interesting.
