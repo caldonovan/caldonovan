@@ -18,6 +18,4 @@ I'm also currently looking for work, feel free to view my [CV](https://github.co
 
 Oh and here's some stats, just for fun!
 
-[![Cal Donovan's stats](https://github-readme-stats.vercel.app/api?username=caldonovan&hide_rank=true&theme=onedark&show_icons=true&hide=["contribs","prs","issues"])](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caldonovan&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
