@@ -14,4 +14,4 @@ I don't really do social media, but I am always open for interactions on :octoca
 
 Oh and here's some stats, just for fun!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caldonovan&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caldonovan&theme=onedark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
